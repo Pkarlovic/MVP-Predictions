@@ -22,4 +22,4 @@ Random Forest Predictions:
 ![Random Forest Predictions](https://user-images.githubusercontent.com/70538240/156902845-86fefe68-6cdb-4ac4-ade2-421746b3011a.png)
 
 
-If you are looking for a more indepth read about this project, please check out the word document in the repo. 
+If you are looking for a more in-depth read about this project, please check out the word document in the repo. 
